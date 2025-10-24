@@ -1,4 +1,4 @@
-package PokemonAdventure;
+package PokemonTerminalQuest;
 
 public class Habilidade {
     private String nome;

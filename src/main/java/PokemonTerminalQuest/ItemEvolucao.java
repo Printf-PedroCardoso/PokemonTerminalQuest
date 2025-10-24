@@ -1,4 +1,4 @@
-package PokemonAdventure;
+package PokemonTerminalQuest;
 
 public class ItemEvolucao extends Item{
 

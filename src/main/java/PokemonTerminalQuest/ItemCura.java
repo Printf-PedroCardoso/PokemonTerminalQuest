@@ -1,4 +1,4 @@
-package PokemonAdventure;
+package PokemonTerminalQuest;
 
 public class ItemCura extends Item {
     private int quantidadeCura;

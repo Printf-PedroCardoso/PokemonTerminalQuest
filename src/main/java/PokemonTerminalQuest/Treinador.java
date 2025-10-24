@@ -1,4 +1,4 @@
-package PokemonAdventure;
+package PokemonTerminalQuest;
 
 import java.util.ArrayList;
 
